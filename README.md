@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Sazid
 
-<!--
-**sazidhossainfahim25/sazidhossainfahim25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer  
+🌱 Currently learning React  
+🚀 Goal: Become a Full Stack Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
+- React (Basic)
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+### 📫 Contact Me
+- Email: your@email.com
+- Facebook: your link
