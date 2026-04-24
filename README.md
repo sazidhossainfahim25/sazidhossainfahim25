@@ -5,18 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Specialist;Next.js+Learner;Building+Modern+Web+Apps;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:141E30,25:243B55,50:00C9FF,75:92FE9D,100:FC466B&text=Sazid%20Hossain&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=twinkling&desc=🚀%20Frontend%20Developer%20%7C%20React.js%20Expert%20%7C%20Bangladesh%20🇧🇩&descSize=20&descAlignY=60&descAlign=50" />
-</p>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+To+My+GitHub+Profile;Frontend+Developer+%F0%9F%92%BB;React.js+%7C+Next.js+%7C+Tailwind+CSS;Building+Modern+Web+Experiences;Always+Learning+New+Things+%F0%9F%9A%80" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Status-Available%20for%20Work-success?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-blueviolet?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Coffee%20Powered-Developer-brown?style=for-the-badge&logo=buymeacoffee" />
+  <img src="YOUR_LINKEDIN_BACKGROUND_IMAGE_DIRECT_LINK" width="100%" alt="Sazid Banner"/>
 </p>
 
 <p align="center">
