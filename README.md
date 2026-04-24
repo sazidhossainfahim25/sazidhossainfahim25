@@ -1,69 +1,93 @@
-######   <h1 align="center">Hi, I'm Sazid Hossain</h1>
-<h3 align="center">Passionate Frontend Developer from Bangladesh</h3>
+<h1 align="center">✨ Hi, I'm Sazid Hossain ✨</h1>
+<h3 align="center">🚀 Passionate Frontend Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vlines=true&width=435&lines=Frontend+Developer;React.js+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
-
----
-
-###  About Me
-
-- I'm currently working on **React.js Projects**
--  I'm currently learning **React.js, Next.js & Tailwind CSS**
-- I'm looking to collaborate on **Frontend Projects**
--  Ask me about **HTML, CSS, JavaScript, React**
--  How to reach me: **sazidhossainfahim25@gmail.com**
--  Fun fact: **I turn coffee into code ☕**
-
----
-
-### 🛠️ Technologies & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sazidhossainfahim25&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazidhossainfahim25&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Specialist;Next.js+Learner;Building+Modern+Web+Apps;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazidhossainfahim25&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://img.shields.io/github/followers/sazidhossainfahim25?label=Followers&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/sazidhossainfahim25?label=Stars&style=for-the-badge&color=ffce00" />
+  <img src="https://img.shields.io/badge/Profile%20Views-1000%2B-brightgreen?style=for-the-badge" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+## 🧑‍💻 About Me
 
-<p align="left">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🔭 Currently working on **Modern React.js Projects**
+- 🌱 Learning **Next.js, TypeScript & Tailwind CSS**
+- 🤝 Looking to collaborate on **Frontend & Open Source Projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js**
+- 📫 Reach me at: **sazidhossainfahim25@gmail.com**
+- ⚡ Fun fact: **I turn coffee into code ☕**
+- 🎯 Goal: **Become a World-Class Full Stack Developer**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode,firebase,nodejs,mongodb" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sazidhossainfahim25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sazidhossainfahim25&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazidhossainfahim25&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sazidhossainfahim25&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="mailto:sazidhossainfahim25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+## 💡 Quote of the Day
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sazidhossainfahim25&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<p align="center">⭐ <i>If you like my work, consider giving a star to my repositories!</i> ⭐</p>
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sazidhossainfahim25/sazidhossainfahim25/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>If you like my work, give a star to my repositories!</b> ⭐
+</p>
