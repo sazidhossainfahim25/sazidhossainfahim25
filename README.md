@@ -4,6 +4,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Specialist;Next.js+Learner;Building+Modern+Web+Apps;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
+## 🔥 Add This Banner Section Top এ বসাও
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Sazid%20Hossain&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React.js%20Lover%20|%20Bangladesh&descAlignY=60&descAlign=50" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/sazidhossainfahim25?label=Followers&style=for-the-badge&color=0e75b6" />
