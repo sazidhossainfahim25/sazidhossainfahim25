@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sazid Hossain</h1>
-<h3 align="center">🚀 Passionate Frontend Developer from Bangladesh</h3>
+<h1 align="center">Hi, I'm Sazid Hossain</h1>
+##<h3 align="center">Passionate Frontend Developer from Bangladesh</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vlines=true&width=435&lines=Frontend+Developer;React.js+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
