@@ -1,103 +1,97 @@
-# Copy this idea and make your README premium like Jowel's profile
-
-## 🔥 Your README should include:
-
-✅ Big Animated Banner  
-✅ Typing Text Animation  
-✅ Professional Intro  
-✅ Skills by Category  
-✅ GitHub Stats  
-✅ Contribution Snake  
-✅ Featured Projects  
-✅ Contact Section  
-✅ Hire Me CTA  
-✅ Clean Premium Layout
-
----
-
-# 🚀 FULL PREMIUM README FOR YOU
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Sazid%20Hossain&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=FONTEND%20DEVELOPER&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:141E30,50:243B55,100:00C9FF&text=Sazid%20Hossain&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20|%20React.js%20Expert%20|%20Bangladesh&descAlignY=62"/>
+  <a href="https://komarev.com/ghpvc/?username=sazidhossainfahim25">
+    <img src="https://komarev.com/ghpvc/?username=sazidhossainfahim25&label=Profile%20views&color=00FFFF&style=flat-square" alt="sazidhossainfahim25's profile views" />
+  </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Sazid Hossain</h1>
-<h3 align="center">Passionate Frontend Developer from Bangladesh 🇧🇩</h3>
+<img src="https://www.linkedin.com/in/sazid-hossain25/overlay/background-photo/" alt="Banner" width="100%" />
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/sazidhossainfahim25">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sazidhossainfahim25&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="sazidhossainfahim25's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=sazidhossainfahim25&theme=github_dark&hide_border=true&cache_seconds=86400" alt="sazidhossainfahim25's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=sazidhossainfahim25&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sazid Hossain's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sazidhossainfahim25&theme=github_dark&radius=10" alt="sazidhossainfahim25's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Enthusiast;Learning+Next.js;Building+Modern+Web+Apps;Always+Learning+New+Things" />
+  <a href="https://github.com/sazidhossainfahim25">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sazidhossainfahim25&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
----
-
-## 💎 About Me
-
-💻 Working on React Projects  
-🌱 Learning Next.js, Tailwind, TypeScript  
-🤝 Open for collaboration  
-🎯 Goal: Become Full Stack Developer  
-☕ Coffee + Code = Happiness
-
----
-
-## 🛠 Skills
-
-### Frontend
-HTML • CSS • JavaScript • React • Tailwind
-
-### Tools
-Git • GitHub • VS Code • Firebase
-
-### Learning
-Next.js • TypeScript • Node.js
-
----
-
-## 📊 GitHub Stats
-
+## 🔗 Connect with Me
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sazidhossainfahim25&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sazidhossainfahim25&theme=tokyonight&hide_border=true"/>
+  <a href="https://www.linkedin.com/in/sazid-hossain25/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/88001326199850">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:sazidhossainfahim25@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
 </p>
 
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazidhossainfahim25&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
----
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/sazidhossainfahim25/sazidhossainfahim25/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-🔹 Portfolio Website  
-🔹 React Dashboard  
-🔹 E-commerce UI  
-🔹 JavaScript Apps
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/sazid-hossain25"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:sazidhossainfahim25@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
-</p>
-
----
-
-## 💼 Hire Me
-
-💬 Open for Freelance / Remote Jobs / Internship
-
----
-
-<p align="center">
-⭐ If you like my profile, star my repositories!
-</p>
