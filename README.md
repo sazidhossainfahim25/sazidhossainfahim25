@@ -1,3 +1,5 @@
+<img src="https://www.linkedin.com/in/sazid-hossain25/overlay/background-photo/" />
+
 # Hi, I am Sazid Hossain
 
 I am a passionate MERN Stack and Full-Stack Web Developer from Bangladesh. Over the past few months, I have built 10+ real-world projects and published work on ThemeForest. I love writing clean, maintainable code and solving real-world problems through web technologies.
@@ -25,4 +27,4 @@ I am currently looking for Full-time Job or Internship opportunities in Banglade
 
 - Email: sazidhossain25@gmail.com
 - Portfolio: https://sazid-hossain.vercel.app
-- LinkedIn: https://www.linkedin.com/in/sazid-hossain-dev
+- LinkedIn: https://www.linkedin.com/in/sazid-hossain25/
