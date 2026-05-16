@@ -37,7 +37,7 @@ I enjoy creating user-friendly digital experiences and continuously learning mod
 
 ## Featured Projects
 
-### 🖼️Tiles Gallery
+### Tiles Gallery
 A modern and responsive web application built with **Next.js** and **MongoDB** that showcases tile collections with full authentication and user profile management.
 
 🔗 Live Demo: https://tiles-gallery-beryl.vercel.app
