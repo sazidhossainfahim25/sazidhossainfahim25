@@ -1,8 +1,16 @@
-# Hello, I'm Sazid Hossain
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sazid+Hossain;MERN+Stack+Developer;Next.js+%26+React+Expert" alt="Typing SVG" />
+</p>
+
+## 👤 About Me
 
 I am a passionate MERN Stack and Full-Stack Web Developer from Bangladesh. Over the past few months, I have built 10+ real-world projects and published work on ThemeForest. I love writing clean, maintainable code and solving real-world problems through web technologies.
 
-## 💻 Technologies I Work With
+- 🔭 I’m currently working on Next.js Applications
+- 💻 Back-end architecture with Node.js and MongoDB
+- 🌱 Learning advanced system design and scalable clean code
+
+## 🛠️ Technologies I Work With
 
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -32,13 +40,13 @@ A modern web application providing a collection of essential digital tools in on
 
 <p align="left">
   <a href="mailto:sazidhossain25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sazidhossain25%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://sazid-hossain.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-darkgreen?style=flat-square&logo=google-chrome" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/sazid-hossain25/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -46,7 +54,8 @@ A modern web application providing a collection of essential digital tools in on
 
 ## 📊 My GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazid-hossain&layout=compact&theme=dark" alt="Top Langs" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sazid-hossain&show_icons=true&theme=dark" alt="GitHub Stats" height="165" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=এখানে_ইউজারনেম_দিন&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=এখানে_ইউজারনেম_দিন&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=এখানে_ইউজারনেম_দিন&theme=vision-friendly-dark" alt="GitHub Streak" height="165" />
 </p>
