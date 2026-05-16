@@ -46,14 +46,3 @@ I am a passionate MERN Stack and Full-Stack Web Developer from Bangladesh. Over 
 </p>
 
 ---
-
-## 📊 GitHub Metrics & Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sazid-hossain&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazid-hossain&layout=compact&theme=tokyonight" alt="Top Langs" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazid-hossain&theme=tokyonight" alt="GitHub Streak" height="180" />
-</p>
