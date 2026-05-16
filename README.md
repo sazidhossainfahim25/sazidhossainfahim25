@@ -1,48 +1,70 @@
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Sazid+Hossain;MERN+Stack+Developer;Next.js+%26+React+Expert" alt="Typing SVG" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFNiG3HIsrreQ/profile-displaybackgroundimage-shrink_350_1400/B56Z2iLI6MKwAc-/0/1776542323455?e=1780531200&v=beta&t=nLqTUuyLtOJZG8LIKqez9NrUZNMgMtnK3-yzimUcn8A" />
 </p>
+<h1 align="center">Hi , I'm Sazid Hossain</h1>
+<h3 align="center">
+ MERN Stack & Full-Stack Web Developer from Bangladesh
+</h3>
 
-## 🚀 About Me
-
-I am a passionate MERN Stack and Full-Stack Web Developer from Bangladesh. Over the past few months, I have built 10+ real-world projects and published work on ThemeForest. I love writing clean, maintainable code and solving real-world problems through web technologies.
-
-- 🔭 **Currently working on:** Next.js & Full-Stack Applications
-- 💻 **Back-end architecture:** Node.js, Express.js, and MongoDB
-- 🌱 **Learning advanced concepts:** System Architecture & Clean Coding Practices
-
----
-
-## 🛠️ Technologies I Work With
-
-### Frontend & Styling
-<p align="left">
-  <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-</p>
-
-### Backend & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;React+%7C+Next.js+Enthusiast;Clean+Code+Lover" />
 </p>
 
 ---
 
-## 📬 Connect With Me
+##  About Me
 
-<p align="left">
-  <a href="mailto:sazidhossain25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://sazid-hossain.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/sazid-hossain25/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+I am **Sazid Hossain**, a passionate **MERN Stack Web Developer** based in **Dhaka, Bangladesh**. I focus on building modern, responsive, and high-performance web applications that solve real-world problems.
+
+With **10+ completed projects** and hands-on experience in both frontend and backend development, I dedicatedly write clean, scalable, and maintainable code.
+
+I enjoy creating user-friendly digital experiences and continuously learning modern web technologies to improve my development skills.
 
 ---
+
+##  Tech Stack & Skills
+
+<p align="">
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=tailwind,css" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+
+---
+
+## Featured Projects
+
+### 🖼️Tiles Gallery
+A modern and responsive web application built with **Next.js** and **MongoDB** that showcases tile collections with full authentication and user profile management.
+
+🔗 Live Demo: https://tiles-gallery-beryl.vercel.app
+
+---
+
+###  Digi Tools
+A modern web application that provides a collection of essential digital tools in one platform with clean UI and optimized performance.
+
+🔗 Live Demo: https://digi-tools-six.vercel.app
+
+---
+
+##  **Contact & Connect**
+
+    Currently looking for:
+- Full-time Job
+- Internship Opportunities
+
+### 📧 Contact Information
+
+- Email: sazidhossain25@gmail.com  
+- Portfolio: https://sazid-hossain.vercel.app
+- LinkedIn: https://www.linkedin.com/in/sazid-hossain25  
+
+---
+
+<p align="center">
+ Thanks for visiting my profile 
+</p>
